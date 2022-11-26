@@ -10,15 +10,14 @@ const options = {
 };
 
 
-
-const [tar] = () => {
-    const[target,setTarget] =  useState()
+const tar = () => {
+    const[target,setTarget] =  useState([])
     const router = useRouter()
     const {tar} = router.query ; 
 
 const getTarget = () => {
 
-    fetch(`https://exercisedb.p.rapidapi.com/exercises/target/${tar}`, options)
+  fetch(`https://exercisedb.p.rapidapi.com/exercises/target/${tar}`, options)
 	.then(response => response.json())
 	.then(response => setTarget(response))
 	.catch(err => console.error(err));
@@ -56,4 +55,4 @@ getTarget()
   )
 }
 
-export default [tar]
+export default tar
