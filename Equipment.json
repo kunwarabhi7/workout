@@ -1,0 +1,151 @@
+[{
+    "id": 1 ,
+    "name" : "assisted ",
+    "ImageURL": ""
+
+},{
+    "id": 2 ,
+    "name" : "band ",
+    "ImageURL": ""
+
+},{
+    "id": 3 ,
+    "name" : "barbell ",
+    "ImageURL": ""
+
+},{
+    "id": 4 ,
+    "name" : "body weight ",
+    "ImageURL": ""
+
+},{
+    "id": 5 ,
+    "name" : "bosu ball ",
+    "ImageURL": ""
+
+},{
+    "id": 6 ,
+    "name" : "cable ",
+    "ImageURL": ""
+
+},{
+    "id": 7 ,
+    "name" : "dumbbell ",
+    "ImageURL": ""
+
+},{
+    "id": 8 ,
+    "name" : "elliptical machine ",
+    "ImageURL": ""
+
+},{
+    "id": 9 ,
+    "name" : "ez barbell ",
+    "ImageURL": ""
+
+},{
+    "id": 10 ,
+    "name" : "hammer ",
+    "ImageURL": ""
+
+},{
+    "id": 11 ,
+    "name" : "kettlebell ",
+    "ImageURL": ""
+
+},{
+    "id": 12 ,
+    "name" : "leverage machine ",
+    "ImageURL": ""
+
+},{
+    "id": 13 ,
+    "name" : "medicine ball ",
+    "ImageURL": ""
+
+},{
+    "id": 14 ,
+    "name" : "olympic barbell ",
+    "ImageURL": ""
+
+},{
+    "id": 15 ,
+    "name" : "resistance band ",
+    "ImageURL": ""
+
+},{
+    "id": 16 ,
+    "name" : "roller ",
+    "ImageURL": ""
+
+},{
+    "id": 17 ,
+    "name" : "rope ",
+    "ImageURL": ""
+
+},{
+    "id": 18 ,
+    "name" : "skierg machine ",
+    "ImageURL": ""
+
+},
+{
+    "id": 19 ,
+    "name" : "sled machine ",
+    "ImageURL": ""
+
+},
+{
+    "id": 20 ,
+    "name" : "smith machine ",
+    "ImageURL": ""
+
+},
+{
+    "id": 21 ,
+    "name" : "stability ball ",
+    "ImageURL": ""
+
+},
+{
+    "id": 22 ,
+    "name" : "stationary bike ",
+    "ImageURL": ""
+
+},
+{
+    "id": 23 ,
+    "name" : "stepmill machine ",
+    "ImageURL": ""
+
+},
+{
+    "id": 24 ,
+    "name" : "tire ",
+    "ImageURL": ""
+
+},
+{
+    "id": 25 ,
+    "name" : "trap bar ",
+    "ImageURL": ""
+
+},
+{
+    "id": 26 ,
+    "name" : "upper body ergometer ",
+    "ImageURL": ""
+
+},
+{
+    "id": 27 ,
+    "name" : "weighted ",
+    "ImageURL": ""
+
+},
+{
+    "id": 28 ,
+    "name" : "wheel roller ",
+    "ImageURL": ""
+
+}]
