@@ -14,51 +14,31 @@
     "ImageURL":"https://blogscdn.thehut.net/app/uploads/sites/478/2021/04/shutterstock_1082321387opt_featured_1617892747_1200x672_acf_cropped.jpg"
 },
 {
-    "id":1,
-    "name":"abductors",
-    "ImageURL":"https://s3.amazonaws.com/prod.skimble/assets/1683701/image_iphone.jpg"
+    "id":4,
+    "name":"biceps",
+    "ImageURL":"https://images.unsplash.com/photo-1600026453249-24a43274d65a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80"
 },{
-    "id":1,
-    "name":"abductors",
-    "ImageURL":"https://s3.amazonaws.com/prod.skimble/assets/1683701/image_iphone.jpg"
+    "id":5,
+    "name":"calves",
+    "ImageURL":"https://www.bodybuilding.com/images/2021/may/6-big-reasons-your-calves-arent-growing-header-960x540.jpg"
 },{
-    "id":1,
-    "name":"abductors",
-    "ImageURL":"https://s3.amazonaws.com/prod.skimble/assets/1683701/image_iphone.jpg"
+    "id":6,
+    "name":"cardiovascular system",
+    "ImageURL":"https://www.bodybuilding.com/images/2016/july/10-best-and-worst-cardio-machines-v2-1-700xh.jpg"
 },{
-    "id":1,
-    "name":"abductors",
-    "ImageURL":"https://s3.amazonaws.com/prod.skimble/assets/1683701/image_iphone.jpg"
+    "id":7,
+    "name":"delts",
+    "ImageURL":"https://www.bodybuilding.com/images/2016/july/shoulder-workouts-for-men-the-7-best-routines-for-bigger-delts-v2-4-700xh.jpg"
 },{
-    "id":1,
-    "name":"abductors",
-    "ImageURL":"https://s3.amazonaws.com/prod.skimble/assets/1683701/image_iphone.jpg"
+    "id":8,
+    "name":"forearms",
+    "ImageURL":"https://chunkfitness.com/sites/default/files/styles/exercise_video_thumbnail/public/exercise/thumb/reverse-push-downs-cable.jpg?itok=uG0yLCbe"
 },{
-    "id":1,
-    "name":"abductors",
-    "ImageURL":"https://s3.amazonaws.com/prod.skimble/assets/1683701/image_iphone.jpg"
+    "id":9,
+    "name":"glutes",
+    "ImageURL":"https://blog.fitplanapp.com/wp-content/uploads/2019/05/best-gym-machines-for-glutes-1200x520.jpg"
 },{
-    "id":1,
-    "name":"abductors",
-    "ImageURL":"https://s3.amazonaws.com/prod.skimble/assets/1683701/image_iphone.jpg"
-},{
-    "id":1,
-    "name":"abductors",
-    "ImageURL":"https://s3.amazonaws.com/prod.skimble/assets/1683701/image_iphone.jpg"
-},{
-    "id":1,
-    "name":"abductors",
-    "ImageURL":"https://s3.amazonaws.com/prod.skimble/assets/1683701/image_iphone.jpg"
-},{
-    "id":1,
-    "name":"abductors",
-    "ImageURL":"https://s3.amazonaws.com/prod.skimble/assets/1683701/image_iphone.jpg"
-},{
-    "id":1,
-    "name":"abductors",
-    "ImageURL":"https://s3.amazonaws.com/prod.skimble/assets/1683701/image_iphone.jpg"
-},{
-    "id":1,
-    "name":"abductors",
-    "ImageURL":"https://s3.amazonaws.com/prod.skimble/assets/1683701/image_iphone.jpg"
+    "id":10,
+    "name":"hamstrings",
+    "ImageURL":"http://photos.demandstudios.com/getty/article/225/56/464983752.jpg"
 }]
