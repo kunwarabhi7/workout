@@ -3,7 +3,7 @@ import Logo from '../public/assests/logo.png'
 import Link from 'next/link'
 const NavBar = () => {
   return (
-    <div className='flex justify-between bg-gray-500 text-white'>
+    <div className='flex justify-between bg-gray-500 text-white w-full pb-4'>
       <Link href='/'>
 <Image src={Logo} className='w-12 pt-4 pl-2' alt='logo' />
       </Link>
