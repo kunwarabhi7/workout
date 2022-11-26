@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Demo from '../components/Demo'
 import MainBar from '../components/MainBar'
 
 export default function Home() {
@@ -10,7 +11,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 <div className='bg-gray-500 w-full h-full pb-4'>
-<MainBar />
+{/* <MainBar /> */}
+<Demo />
 </div>
       
     </div>
