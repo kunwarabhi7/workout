@@ -68,7 +68,7 @@ const Demo = () => {
               <img
                 alt="..."
                 className="max-w-full rounded-lg shadow-lg"
-                src="https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+                src="https://images.unsplash.com/photo-1620188467120-5042ed1eb5da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
               />
             </div>
             <div
@@ -163,10 +163,8 @@ const Demo = () => {
 
                   />
                 <div className="pt-6 text-center">
-                  <h5 className="text-xl font-bold">Mr Rogers</h5>
-                  <p className="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                    Neighborhood Watchman
-                  </p>
+                  <h5 className="text-xl font-bold">WorkOut by bodyPart</h5>
+                  
                 </div>
               </div>
             </div>
@@ -178,14 +176,12 @@ const Demo = () => {
               <div className="px-6">
                 <img
                   alt="..."
-                  src="https://images.unsplash.com/photo-1594381898411-846e7d193883?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+                  src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                   className="shadow-lg rounded max-w-full mx-auto"
                 />
                 <div className="pt-6 text-center">
-                  <h5 className="text-xl font-bold">Strawberry Shortcake</h5>
-                  <p className="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                    Cupcake Smasher
-                  </p>
+                  <h5 className="text-xl font-bold">WorkOut by Target Muscle</h5>
+                 
                 </div>
               </div>
             </div>
@@ -197,12 +193,12 @@ const Demo = () => {
               <div className="px-6">
                 <img
                   alt="..."
-                  src="https://images.unsplash.com/photo-1567013127542-490d757e51fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+                  src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
                   className="shadow-lg rounded max-w-full mx-auto"
               
                 />
                 <div className="pt-6 text-center">
-                  <h5 className="text-xl font-bold">Ronald McDonald</h5>
+                  <h5 className="text-xl font-bold">WorkOut by Equipments.</h5>
                   <p className="mt-1 text-sm text-gray-500 uppercase font-semibold">
                     Double Whoopass With Cheese
                   </p>
