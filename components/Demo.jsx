@@ -142,11 +142,11 @@ const Demo = () => {
               </div>
             </div>
             {/* <!-- Trainer Card Wrapper --> */}
-            <div className="flex w-full flex-wrap">
+            <div className="flex w-full items-center flex-wrap">
               {/* <!-- Card 1 --> */}
               <Link href="/MainBar">
                 <div
-                  className="w-full md:w-4/12 lg:mb-0 mb-12 px-4"
+                  className="w-96  lg:mb-0 mb-12  px-4"
                   data-aos="flip-right"
                 >
                   <div className="px-6">
@@ -156,7 +156,7 @@ const Demo = () => {
                       className="shadow-lg rounded max-w-full mx-auto"
                     />
                     <div className="pt-6 text-center">
-                      <h5 className="text-xl font-bold">WorkOut by bodyPart</h5>
+                      <h5 className="text-xl font-bold mb-4">WorkOut by bodyPart</h5>
                     </div>
                   </div>
                 </div>
@@ -165,7 +165,7 @@ const Demo = () => {
               <Link href='/Target'>
                 
               <div
-                className="w-full md:w-4/12 lg:mb-0 mb-12 px-4"
+                className="w-96  lg:mb-0 mb-12 px-4"
                 data-aos="flip-right"
                 >
                 <div className="px-6">
@@ -175,7 +175,7 @@ const Demo = () => {
                     className="shadow-lg rounded max-w-full mx-auto"
                   />
                   <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold">
+                    <h5 className="text-xl font-bold mb-4">
                       WorkOut by Target Muscle
                     </h5>
                   </div>
@@ -184,7 +184,7 @@ const Demo = () => {
                   </Link>
               {/* <!-- Card 3 --> */}
               <div
-                className="w-full md:w-4/12 lg:mb-0 mb-12 px-4"
+                className="w-96  lg:mb-0 mb-12 px-4"
                 data-aos="flip-right"
               >
                 <div className="px-6">
