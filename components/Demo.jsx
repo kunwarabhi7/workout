@@ -142,18 +142,18 @@ const Demo = () => {
               </div>
             </div>
             {/* <!-- Trainer Card Wrapper --> */}
-            <div className="flex w-full items-center flex-wrap">
+            <div className="flex w-full  items-center  flex-wrap">
               {/* <!-- Card 1 --> */}
               <Link href="/MainBar">
                 <div
-                  className="w-96  lg:mb-0 mb-12  px-4"
+                  className="md:w-[45rem]  xl:w-[70rem]  lg:mb-0 mb-12  px-4"
                   data-aos="flip-right"
                 >
                   <div className="px-6">
                     <img
                       alt="..."
                       src="https://i.pinimg.com/originals/83/44/f3/8344f39c6a366043836a5e4f3f8db516.jpg"
-                      className="shadow-lg rounded max-w-full mx-auto"
+                      className="shadow-lg rounded max-w-full  mx-auto"
                     />
                     <div className="pt-6 text-center">
                       <h5 className="text-xl font-bold mb-4">WorkOut by bodyPart</h5>
@@ -165,7 +165,7 @@ const Demo = () => {
               <Link href='/Target'>
                 
               <div
-                className="w-96  lg:mb-0 mb-12 px-4"
+                className="md:w-[45rem]  xl:w-[70rem]  lg:mb-0 mb-12 px-4"
                 data-aos="flip-right"
                 >
                 <div className="px-6">
@@ -184,7 +184,7 @@ const Demo = () => {
                   </Link>
               {/* <!-- Card 3 --> */}
               <div
-                className="w-96  lg:mb-0 mb-12 px-4"
+                className="md:w-[45rem]  xl:w-[70rem]   lg:mb-0 mb-12 px-4"
                 data-aos="flip-right"
               >
                 <div className="px-6">
