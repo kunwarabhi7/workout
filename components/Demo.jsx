@@ -149,15 +149,16 @@ const Demo = () => {
                   className="md:w-[45rem]  xl:w-[70rem]  lg:mb-0 mb-12  px-4"
                   data-aos="flip-right"
                 >
+                   <div className="pt-6 text-center">
+                      <h5 className="text-xl font-bold mb-4">WorkOut by bodyPart</h5>
+                    </div>
                   <div className="px-6">
                     <img
                       alt="..."
                       src="https://i.pinimg.com/originals/83/44/f3/8344f39c6a366043836a5e4f3f8db516.jpg"
                       className="shadow-lg rounded max-w-full  mx-auto"
                     />
-                    <div className="pt-6 text-center">
-                      <h5 className="text-xl font-bold mb-4">WorkOut by bodyPart</h5>
-                    </div>
+                   
                   </div>
                 </div>
               </Link>
@@ -169,40 +170,43 @@ const Demo = () => {
                 data-aos="flip-right"
                 >
                 <div className="px-6">
+                <div className="pt-6 text-center">
+                    <h5 className="text-xl font-bold mb-4">
+                      WorkOut by Target Muscle
+                    </h5>
+                  </div>
                   <img
                     alt="..."
                     src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                     className="shadow-lg rounded max-w-full mx-auto"
                   />
-                  <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold mb-4">
-                      WorkOut by Target Muscle
-                    </h5>
-                  </div>
+                 
                 </div>
               </div>
                   </Link>
               {/* <!-- Card 3 --> */}
+              <Link href='/Equipment'>
+
               <div
                 className="md:w-[45rem]  xl:w-[70rem]   lg:mb-0 mb-12 px-4"
                 data-aos="flip-right"
-              >
+                >
                 <div className="px-6">
+                <div className="pt-6 text-center">
+                    <h5 className="text-xl font-bold">
+                      WorkOut by Equipments.
+                    </h5>
+                   
+                  </div>
                   <img
                     alt="..."
                     src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
                     className="shadow-lg rounded max-w-full mx-auto"
-                  />
-                  <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold">
-                      WorkOut by Equipments.
-                    </h5>
-                    <p className="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                      Double Whoopass With Cheese
-                    </p>
-                  </div>
+                    />
+                
                 </div>
               </div>
+                    </Link>
             </div>
           </div>
         </section>
