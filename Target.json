@@ -41,4 +41,42 @@
     "id":10,
     "name":"hamstrings",
     "ImageURL":"http://photos.demandstudios.com/getty/article/225/56/464983752.jpg"
+},
+{
+    "id":11,
+    "name":"lats",
+    "ImageURL":"https://www.bodybuilding.com/images/2017/may/5-lat-pulldown-variations-for-an-impressive-physique--v2-4-700xh.jpg"
+},
+{
+    "id":12,
+    "name":"levator scapulae",
+    "ImageURL":"https://i.ytimg.com/vi/U-rAhZajTLs/hqdefault.jpg"
+},{
+    "id":13,
+    "name":"pectorals",
+    "ImageURL":"https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/05/Male_Gym_1296x728-body-1296x728.jpg?w=1155&h=1528"
+},{
+    "id":14,
+    "name":"quads",
+    "ImageURL":"https://www.bodybuilding.com/images/2020/march/the-ultimate-machine-quad-workout-inset-1-700xh.jpg"
+},{
+    "id":15,
+    "name":"serratus anterior",
+    "ImageURL":"https://i.ytimg.com/vi/cxaAqmdlrgk/maxresdefault.jpg"
+},{
+    "id":16,
+    "name":"spine",
+    "ImageURL":"https://www.ammfitness.co.uk/information-advice/wp-content/uploads/2022/05/Lower-Back-Machine-Exercises.png"
+},{
+    "id":17,
+    "name":"traps",
+    "ImageURL":"https://www.muscleandfitness.com/wp-content/uploads/2017/11/trap-training.jpg?quality=86&strip=all"
+},{
+    "id":18,
+    "name":"triceps",
+    "ImageURL":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/exercise-for-triceps-royalty-free-image-1572436196.jpg?crop=1.00xw:0.753xh;0,0&resize=1200:*"
+},{
+    "id":19,
+    "name":"upper back",
+    "ImageURL":"https://www.muscleandfitness.com/wp-content/uploads/2018/12/low-cable-crossover-1109.jpg?quality=86&strip=all"
 }]

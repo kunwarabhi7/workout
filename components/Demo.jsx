@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-
+import {BsDiscord, BsGithub, BsTwitter} from 'react-icons/bs'
 const Demo = () => {
   return (
     <div>
@@ -332,19 +332,19 @@ const Demo = () => {
                   className="bg-white text-blue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
                   type="button"
                 >
-                  <i className="flex fab fa-twitter text-orange-500"></i>
+                  <BsTwitter size={20} />
                 </button>
                 <button
                   className="bg-white text-blue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
                   type="button"
                 >
-                  <i className="flex fab fa-facebook-square text-orange-500"></i>
+                  <BsGithub size={20} />
                 </button>
                 <button
-                  className="bg-white text-pink-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
+                  className="bg-white text-purple-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
                   type="button"
                 >
-                  <i className="flex fab fa-linkedin text-orange-500"></i>
+                  <BsDiscord size={20} />
                 </button>
               </div>
             </div>
