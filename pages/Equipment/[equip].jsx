@@ -12,15 +12,23 @@ const options = {
 
 
 const equip = () => {
-
-    fetch('https://exercisedb.p.rapidapi.com/exercises/equipment/weighted', options)
+    const router = useRouter()
+    const {equip} = router.query;
+    const [equipment,setEquipment] = useState([])
+const getEquipped = () => {
+    fetch(  `https://exercisedb.p.rapidapi.com/exercises/equipment/${equip}`, options)
 	.then(response => response.json())
-	.then(response => console.log(response))
+	.then(response => setEquipment(response))
 	.catch(err => console.error(err));
+}
+
+useEffect(()=>{
+getEquipped()
+},[])
 
   return (
     <div> <div className="w-full lg:mx-48">
-    {target.map((item)=>{
+    {equipment.map((item)=>{
       return (
       <div key={item.id} className="text-gray-600 body-font">
 <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
