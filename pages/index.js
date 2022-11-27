@@ -12,8 +12,9 @@ export default function Home() {
 <div className='bg-gray-500 w-full h-full pb-4'>
 
 <Demo />
+
 </div>
-      
+
     </div>
   )
 }

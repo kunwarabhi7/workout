@@ -48,7 +48,8 @@ getEquipped()
 </div>
            )
     })}
-       </div></div>
+       </div>
+       </div>
   )
 }
 

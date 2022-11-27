@@ -22,7 +22,6 @@ const Target = () => {
         )
       })}
     
- 
 
     </div>
   )

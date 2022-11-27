@@ -1,3 +1,4 @@
+import ScrollToTop from 'react-scroll-to-top'
 import NavBar from '../components/NavBar'
 import '../styles/globals.css'
 
@@ -6,6 +7,7 @@ function MyApp({ Component, pageProps }) {
     <>
     <NavBar />
   <Component {...pageProps} />
+  <ScrollToTop smooth />
     </>
   )
 }
