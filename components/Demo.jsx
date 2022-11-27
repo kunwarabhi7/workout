@@ -7,7 +7,7 @@ const Demo = () => {
       {/* <!-- Main Area --> */}
       <main>
         {/* <!-- Hero --> */}
-        <div className="relative pt-16 pb-32 flex content-center items-center justify-center">
+        <div className="relative pt-16 pb-16 flex content-center items-center justify-center">
           <div className="absolute top-0 w-full h-full bg-top bg-cover">
             <span
               id="blackOverlay"
@@ -24,14 +24,10 @@ const Demo = () => {
                   <p className="mt-4 text-lg text-gray-300">
                     Welcome to The Power Room. We are a fitness and training
                     center that focuses on pushing you to your absolute limit.
-                    Download our complete brochure to get started today!
+                    <br/>
                   </p>
-                  <a
-                    href="#"
-                    className="bg-transparent hover:bg-orange-500 text-orange-500 font-semibold hover:text-white p-4 border border-orange-500 hover:border-transparent rounded inline-block mt-5 cursor-pointer"
-                  >
-                    Download Brochure
-                  </a>
+                    <p className="text-orange-500 text-5xl mt-4" >Join us to get FIT!</p>
+                
                 </div>
               </div>
             </div>
@@ -128,16 +124,15 @@ const Demo = () => {
         </section>
 
         {/* <!-- Trainers Section --> */}
-        <section className="pt-20 pb-48">
+        <section className="pt-20 pb-8">
           <div className="container mx-auto px-4">
-            <div className="flex flex-wrap justify-center text-center mb-24">
+            <div className="flex flex-wrap justify-center text-center mb-8">
               <div className="w-full lg:w-6/12 px-4">
                 <h2 className="text-4xl font-semibold uppercase">
-                  Meet Our Trainers
+                  Our Training Categories
                 </h2>
-                <p className="text-lg leading-relaxed m-4">
-                  Our trainers are are here to dedicate the time and effort that
-                  you need to get in the best shape of your life
+                <p className="text-lg leading-relaxed m-4 text-xl">
+                  We have three traning categories which a user can choose to  get in the best shape of your life
                 </p>
               </div>
             </div>
@@ -150,13 +145,13 @@ const Demo = () => {
                   data-aos="flip-right"
                 >
                    <div className="pt-6 text-center">
-                      <h5 className="text-xl font-bold mb-4">WorkOut by bodyPart</h5>
+                      <h5 className="text-3xl font-bold mb-4">WorkOut by bodyPart</h5>
                     </div>
                   <div className="px-6">
                     <img
                       alt="..."
                       src="https://i.pinimg.com/originals/83/44/f3/8344f39c6a366043836a5e4f3f8db516.jpg"
-                      className="shadow-lg rounded max-w-full  mx-auto"
+                      className="shadow-lg rounded max-w-full lg:ml-48 xl:ml-24  mx-auto"
                     />
                    
                   </div>
@@ -171,14 +166,14 @@ const Demo = () => {
                 >
                 <div className="px-6">
                 <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold mb-4">
+                    <h5 className="text-3xl font-bold mb-4">
                       WorkOut by Target Muscle
                     </h5>
                   </div>
                   <img
                     alt="..."
                     src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-                    className="shadow-lg rounded max-w-full mx-auto"
+                    className="shadow-lg rounded max-w-full lg:ml-48 xl:ml-24 mx-auto"
                   />
                  
                 </div>
@@ -193,7 +188,7 @@ const Demo = () => {
                 >
                 <div className="px-6">
                 <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold">
+                    <h5 className="text-3xl font-bold mb-4">
                       WorkOut by Equipments.
                     </h5>
                    
@@ -201,7 +196,7 @@ const Demo = () => {
                   <img
                     alt="..."
                     src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
-                    className="shadow-lg rounded max-w-full mx-auto"
+                    className="shadow-lg rounded max-w-full lg:ml-48 xl:ml-24 mx-auto"
                     />
                 
                 </div>
